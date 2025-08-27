@@ -94,7 +94,7 @@ function setStakeByKeysForCurrentStep(doneCb) {
     }
 }
 // == Базовые настройки ==
-const appversion = "Level05-CandleSuite-v2.1-Simplified-MG";
+const appversion = "Level05_CandleSuite_v2.2_EMA_RSI_MG";
 const mode = 'DEMO'; // 'DEMO' или 'REAL'
 const candleInterval = 60000; // 1 минута в миллисекундах
 const emaPeriod = 5; // Период для EMA
